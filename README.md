@@ -19,7 +19,7 @@ Constantly improved and updated for the latest NitroType changes and anti-cheat 
 
 📲 How to Get Started
 Join the official Discord server:
-👉 Click Here to Join
+[👉 Click Here to Join](https://discord.gg/qXQKcykYZV)
 
 Follow the instructions in the server to activate the bot.
 
