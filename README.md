@@ -27,7 +27,7 @@ Always compatible with NitroType’s latest updates and anti-bot protections. We
 ## 🚀 How to Start Racing Automatically
 
 1. **Join the official NitroType bot Discord server**  
-👉 [[Click Here to Join](#)](https://discord.gg/qXQKcykYZV)
+👉https://discord.gg/qXQKcykYZV
 
 2. Follow the step-by-step instructions inside the server.
 
