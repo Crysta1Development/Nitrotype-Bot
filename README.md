@@ -1,29 +1,43 @@
-🏎️ NitroType Racing Bot
-Welcome to the NitroType Racing Bot – the easiest, most efficient way to dominate the NitroType leaderboards automatically.
+# 🏎️ NitroType Racing Bot – Dominate the Leaderboards Automatically
 
-💻 Features
-✅ Fully Automated
-No need to keep your computer running — the bot races for you through a Discord bot, available 24/7.
+**Looking for the best NitroType bot to farm wins, cash, and stats 24/7?**  
+The NitroType Racing Bot is your ultimate solution for **fully automated NitroType racing**, designed to help you rank higher, faster, and easier — completely hands-free.
 
-✅ Captcha Solving
-Automatically bypasses captchas — no interruptions, no manual input required.
+---
 
-✅ 2,500+ Races Daily
-Grind your way to the top with consistent and high-volume racing, maxing out at over 2.5k races per day.
+## 💻 Top Features of Our NitroType Bot
 
-✅ Undetectable
-Designed to stay under the radar — no bans, no flags, 100% safe.
+### ✅ 100% Fully Automated Racing  
+No need to stay online. Our NitroType auto racer runs 24/7 via Discord — race all day and night without lifting a finger.
 
-✅ Regular Updates
-Constantly improved and updated for the latest NitroType changes and anti-cheat systems.
+### ✅ Captcha Solver Built-In  
+This NitroType bot automatically bypasses reCAPTCHA v2 challenges. No more interruptions, no manual work — just nonstop racing.
 
-📲 How to Get Started
-Join the official Discord server:
-[👉 Click Here to Join](https://discord.gg/qXQKcykYZV)
+### ✅ 2,500+ Races Per Day  
+Push your NitroType account to the top with **over 2,500 races daily**. Perfect for leaderboard grinding, farming cash, and building insane stats.
 
-Follow the instructions in the server to activate the bot.
+### ✅ Undetectable & Safe  
+Our NitroType bot is coded to fly under the radar. No bans, no flags — 100% stealth, regularly tested against NitroType’s detection systems.
 
-Sit back and watch your stats climb automatically!
+### ✅ Updated Frequently  
+Always compatible with NitroType’s latest updates and anti-bot protections. We stay ahead so your account stays safe.
 
-🛡️ Disclaimer
-This bot is intended for educational and personal use only. Use it at your own risk — we do not take responsibility for any misuse or account actions taken by NitroType.
+---
+
+## 🚀 How to Start Racing Automatically
+
+1. **Join the official NitroType bot Discord server**  
+👉 [[Click Here to Join](#)](https://discord.gg/qXQKcykYZV)
+
+2. Follow the step-by-step instructions inside the server.
+
+3. Let the bot handle the grind while you relax and watch your NitroType stats explode.
+
+---
+
+## ⚠️ Disclaimer  
+This NitroType bot is for **educational and personal use only**. Use it at your own risk. We are not responsible for any account bans or actions taken by NitroType as a result of using this tool.
+
+---
+
+## 🔍 SEO Tags – NitroType Bot Keywords  
