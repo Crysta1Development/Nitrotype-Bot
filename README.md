@@ -1,4 +1,4 @@
-# 🏎️ NitroType Racing Bot – Dominate the Leaderboards Automatically
+# 🏎️ NitroType Racing Bot – Dominate the Leaderboards Automatically 24/7
 
 **Looking for the best NitroType bot to farm wins, cash, and stats 24/7?**  
 The NitroType Racing Bot is your ultimate solution for **fully automated NitroType racing**, designed to help you rank higher, faster, and easier — completely hands-free.
